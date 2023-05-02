@@ -1,0 +1,1 @@
+{"name":"Local: coin_count","url":"d:\\programming_c++\\Dynamic_programming\\coin_count.cpp","tests":[{"id":1666960721065,"input":"4 13\n1 3 5 15","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming_c++\\Dynamic_programming\\coin_count.cpp","group":"local","local":true}
