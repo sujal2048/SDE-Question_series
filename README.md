@@ -36,8 +36,8 @@ get into touch you can always ping me on the given social areas.
 
 
 <hr/>
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=Techno-Simpola&currStreakNum=2FD3EB&fire=green&sideLabels=F00&theme=tokyonight&no-frame=true'>
-<br><br>
+
+
 
 <hr/>
 
@@ -62,13 +62,12 @@ get into touch you can always ping me on the given social areas.
 <img  alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img  alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img  alt="bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+
+
+
 <img  src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 <img  src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="xd" width="40" height="40"/> 
-<!-- <img  src="https://cdn.worldvectorlogo.com/logos/material-ui.svg" alt="xd" width="40" height="40"/>  -->
  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="xd" width="40" height="40"/>  
- <img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" alt="xd" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="xd" width="40" height="40"/>
 </div>
 <br><br>
 
@@ -77,11 +76,7 @@ get into touch you can always ping me on the given social areas.
 
 <br>
   
-<hr/>
 
-
-
-<hr/>
 
 
 
