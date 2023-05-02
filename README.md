@@ -2,9 +2,9 @@
 
 # SDE-Preparation
 
-This repository includes all the solved interview preparation questions for  SDE role. I'll be solving 2-3 problems daily. So stay 👀
+This repository includes all the solved interview preparation questions for  SDE role. I'll be solving 2-3 problems daily,which will be updated in time 👀
 
-SDE Test Series__ consists of practice questions for the following topics:
+SDE Test Series__ consists of practice questions almost for all for the  topics covering the field for competitve programming and DSA.
 
 
 
