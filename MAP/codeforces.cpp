@@ -57,9 +57,7 @@ int main(){
             if(h>=last){
                 cout<<b[last][g-1]<<endl;
             }
-            else{
-                
-            }
+            
         }
 
     }
