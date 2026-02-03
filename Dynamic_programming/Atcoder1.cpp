@@ -10,8 +10,7 @@ ll smallb(ll a,string s){ll mod=0;ll l=s.length();for(int i=0;i<l;i++){mod=(mod*
 ll gcd(ll a, ll b){if (!a)return b;return gcd(b % a, a);}
 ll gcdlarge(ll a,string s){ll num=smallb(a,s);return gcd(a,num);}
 bool compare(pair<char,ll> p1,pair<char,ll> p2){if(p1.second>p2.second){return true;}return false;}
-#define FIO                           \
-    ios_base::sync_with_stdio(false); \
+
   
 int main(){
     FIO;
