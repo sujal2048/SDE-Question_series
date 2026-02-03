@@ -26,10 +26,7 @@ int main(){
         if(count==0 && (!poss)){
             cout<<-1<<endl;
         }
-        else{
-            
-
-        }
+        
 
     }
     return 0;
