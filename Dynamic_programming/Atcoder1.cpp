@@ -13,7 +13,6 @@ bool compare(pair<char,ll> p1,pair<char,ll> p2){if(p1.second>p2.second){return t
 
   
 int main(){
-    FIO;
     ll n,k;cin>>n>>k;
     vector<ll> a(n);
     for(int i=0;i<n;i++){
