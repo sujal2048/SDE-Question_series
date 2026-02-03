@@ -12,8 +12,7 @@ ll gcdlarge(ll a,string s){ll num=smallb(a,s);return gcd(a,num);}
 bool compare(pair<char,ll> p1,pair<char,ll> p2){if(p1.second>p2.second){return true;}return false;}
 #define FIO                           \
     ios_base::sync_with_stdio(false); \
-    cin.tie(NULL);                    \
-    cout.tie(NULL)
+  
 int main(){
     FIO;
     ll n,k;cin>>n>>k;
