@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>  // kruskal mst
 using namespace std;
 #define ll long long
-#define ld long double//https://codeforces
+
 const int MOD = 1000000007;
 ll power(ll a, ll b){
     ll res=1;a=a%MOD;
