@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>            //https://www.youtube.com/watch?v=mg9yi6YuAVk&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=76
+#include<bits/stdc++.h>            
 using namespace std;
 int prec(char c){
     if(c=='^'){
