@@ -1,4 +1,4 @@
-//https://atcoder.jp/contests/dp/tasks/dp_c
+//https://atcoder.jp/contests
 #include <bits/stdc++.h>
 using namespace std;
  
