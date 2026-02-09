@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>           //https://www.youtube.com/watch?v=NOykDuH1_OY
+#include<bits/stdc++.h>          
 using namespace std;
 #define ld long double
 const int MOD = 1000000007;
