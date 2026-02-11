@@ -77,7 +77,7 @@ int main(){
                 ans=tans; 
             }
         }
-        cout<<"Case #"<<q<<": "<<ans<<endl;
+        
     }
     return 0;
 }
