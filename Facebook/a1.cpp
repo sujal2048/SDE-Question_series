@@ -21,7 +21,7 @@ int main(){
               }
             }
         }
-        cout<<<<i<<": "<<ans<<endl;
+       
     }
     return 0;
 }
