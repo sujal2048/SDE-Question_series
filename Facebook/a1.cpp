@@ -21,7 +21,7 @@ int main(){
               }
             }
         }
-        cout<<"Case #"<<i<<": "<<ans<<endl;
+        cout<<<<i<<": "<<ans<<endl;
     }
     return 0;
 }
