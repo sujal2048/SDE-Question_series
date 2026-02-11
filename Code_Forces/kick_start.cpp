@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-#define ll long long
 
 int main(){
     ll t;cin>>t; ll d,n,k; ll mx=0;ll tmx=0; ll x,y,z;vector<vector<ll> > day(1000,vector<ll> (10,0));vector<ll> temp(d+1,0);
