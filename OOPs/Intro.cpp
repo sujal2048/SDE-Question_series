@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>         //https://www.youtube.com/watch?v=YscEc
+#include<bits/stdc++.h>        
 using namespace std;
 class student{
     string name;
