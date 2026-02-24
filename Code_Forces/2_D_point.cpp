@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-#define ll long double
 ll dist(ll x1,ll x2,ll y1,ll y2)
 {
     if(x1==x2 && y1==y2){
