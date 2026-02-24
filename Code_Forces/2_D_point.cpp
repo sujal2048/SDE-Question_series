@@ -2,9 +2,7 @@
 using namespace std;
 ll dist(ll x1,ll x2,ll y1,ll y2)
 {
-    if(x1==x2 && y1==y2){
-        return 0;
-    }
+    
     if(abs(x1-x2)==abs(y1-y2)){
         return 1;
     }
