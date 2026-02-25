@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>        // https://atcoder.jp/contests/dp/tasks/dp_b
 #define ll long long
-#define ld long double
 const int MOD = 1000000007;
 ll power(ll a, ll b){ll res=1;a=a%MOD;while(b>0){if(b&1){res=(res*a)%MOD;b--;}a=(a*a)%MOD;b>>=1;}
    return res;}
