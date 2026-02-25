@@ -1,5 +1,4 @@
 #include<bits/stdc++.h>        // https://atcoder.jp/contests/dp/tasks/dp_b
-using namespace std;
 #define ll long long
 #define ld long double
 const int MOD = 1000000007;
