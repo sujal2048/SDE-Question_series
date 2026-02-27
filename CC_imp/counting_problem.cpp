@@ -5,7 +5,6 @@ using namespace std;
 #define pb push_back
 #define mod 1000000007
 #define endl '\n'
-#define ff first
 #define ss second
 
 typedef long long int ll;
