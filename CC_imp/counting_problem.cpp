@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define fast_io ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);
-#define f(i,x,n) for(long long int i=x;i<n;i++)
 #define fr(i,x,n) for(long long int i=n-1;i>=x;i--)
 #define pb push_back
 #define mod 1000000007
