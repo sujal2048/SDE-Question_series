@@ -1,5 +1,4 @@
 //    study  -> https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
-//    https://atcoder.jp/contests/dp/tasks/dp_d
 //    max_size=178956970 of vector;
 #include<bits/stdc++.h>  
 using namespace std;
