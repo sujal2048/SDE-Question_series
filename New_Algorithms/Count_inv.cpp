@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>          
-#define ld long double
+#define ld long 
 const int MOD = 1000000007;
 ll power(ll a, ll b){
     ll res=1;a=a%MOD;
