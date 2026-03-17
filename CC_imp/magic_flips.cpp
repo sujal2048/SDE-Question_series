@@ -5,7 +5,6 @@ int main(){
     cin>>t;
     while(t--){
         ll n;cin>>n;
-        vector <ll> a(n);
         vector <ll> b(n);
         for(int i=0;i<n;i++){
             cin>>a[i];
