@@ -5,7 +5,6 @@ ll dist(ll x1,ll x2,ll y1,ll y2)
     
    
     
-    return 2;
 }
 int main(){
     ll t;cin>>t;
