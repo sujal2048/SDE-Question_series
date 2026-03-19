@@ -1,11 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 ll dist(ll x1,ll x2,ll y1,ll y2)
-{
-    
-   
-    
-}
 int main(){
     ll t;cin>>t;
     while(t--){
