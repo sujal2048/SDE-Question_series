@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>
 struct Node{
     int data;
-    struct Node* left;
     struct Node* right;
 
     Node(int val){
