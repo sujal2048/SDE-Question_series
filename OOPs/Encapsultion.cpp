@@ -1,5 +1,4 @@
 //to hide sensitive information from users
-//https://www.youtube.com/watch?v=kpRNDl-b9Dw&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=54
 
 #include<bits/stdc++.h>
 using namespace std;
