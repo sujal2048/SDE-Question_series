@@ -1,4 +1,3 @@
-//to hide sensitive information from users
 
 #include<bits/stdc++.h>
 using namespace std;
