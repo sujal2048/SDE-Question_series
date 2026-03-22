@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-#define ll long long
 const int MOD =1000000007;
 
 struct Node{
