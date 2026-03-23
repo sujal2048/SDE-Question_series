@@ -2,7 +2,7 @@
 
 using namespace std;
 int get_max_area(vector<int> a){                //if it is incre 
-    int n=a.size(),ans=0,i=0;               //potential rectangle then further
+    int n=a.size(),ans=0,i=0;              
     a.push_back(0);
     stack <int> st;
     while(i<=n){
