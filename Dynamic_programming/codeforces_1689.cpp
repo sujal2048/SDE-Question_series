@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-#define ll long long
+#define ll long 
 #define ld long double
 const int MOD = 1000000007;
 ll power(ll a, ll b){
