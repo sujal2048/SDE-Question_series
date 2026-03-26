@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>//https://codeforces.com/group/nisINkUPNQ/contest/344953
+#include<bits/stdc++.h>
 using namespace std;
 #define ll long long
 #define ld long double
