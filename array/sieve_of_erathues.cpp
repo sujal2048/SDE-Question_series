@@ -3,11 +3,7 @@ using namespace std;
 void primsieve(int n){
     int prime[100]={0};
     for(int i=2;i<=n;i++){
-        if(prime[i]==0){
-            for(int j=i*i;j<=n;j+=i){
-       
-            }
-        }
+
     }
     for(int i=2;i<=n;i++){
         if(prime[i]==0){
