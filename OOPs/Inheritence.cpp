@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>                //https://www.youtube.com/watch?v=7ZfEp71tIec&list=PLfqMhTWNBTe0b2
+#include<bits/stdc++.h>           
 using namespace std;
 class A {
     public:
