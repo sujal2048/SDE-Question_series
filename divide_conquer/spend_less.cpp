@@ -22,7 +22,6 @@ int main(){
 
         for(int j=i+1;j<n;j++){
             if(s[j]<=s[i]){
-                continue;
             }
             pre[i]=min(pre[i],c[j]);
         }
