@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>  //https://www.youtube
+#include<bits/stdc++.h>  
 using namespace std;
 #define ll long long
 #define ld long double
