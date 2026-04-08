@@ -19,7 +19,6 @@ int main()
  
     vector<vector<int>> dp(n + 1, vector<int>(3, 0));
     dp[1][0] = ip[1][0];
-    dp[1][1] = ip[1][1];
     dp[1][2] = ip[1][2];
  
     for (int i = 2; i <= n; i++)
