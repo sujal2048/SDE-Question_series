@@ -13,7 +13,6 @@
 //result=4
 
 
-// Constraints:
 
 // 3 <= coin <= 105
 // 1 <= sum <= 106
