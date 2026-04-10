@@ -9,7 +9,6 @@
 
 
 //  Example 2
-// coins=5   sum=19
 //array=[1,2 ,7 ,9,13]
 //result=4
 
