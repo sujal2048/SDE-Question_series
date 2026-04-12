@@ -134,7 +134,6 @@ int main(){
 	//init_usaco();
     ll t;cin>>t;
     for(int q=1;q<=t;q++){
-        //cout<<"Case #"<<q<<": ";
        solve();
       // pair<ll,ld> x=precisionCompute({31,0.23456});
       // cout<<x.first+x.second;
