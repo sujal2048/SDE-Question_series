@@ -65,7 +65,6 @@ int least_comm_ances(Node* root,ll x,ll y){
 }
 int main(){
     vector<ll> preorder={1,2,4,5,6,7,3};
-    vector<ll> inorder={5,4,7,6,2,1,3};
     Node* root=buildtree(preorder,inorder,0,6);
     inorderprint(root);
     cout<<endl;
