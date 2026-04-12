@@ -131,7 +131,7 @@ int main(){
 		freopen("error2.txt","w",stderr);
 		clock_t clk = clock();
 	#endif
-	//init_usaco();
+	//init_u
     ll t;cin>>t;
     for(int q=1;q<=t;q++){
        solve();
