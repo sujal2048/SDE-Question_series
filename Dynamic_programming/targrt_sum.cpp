@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>      //https://www.youtube.com/wa
-using namespace std;         //basic and recursive approach becoz many overlapping sub problem is formed
+using namespace std;         //basic and recursive approach becoz many o
 int total=0;                 //apply DP
 void target(vector<int> &a,int s,int t,int i){
     if(i==a.size()){
