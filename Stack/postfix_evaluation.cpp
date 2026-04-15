@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 #include<stack>
-#include<math.h>
 using namespace std;
 int postfixevaluation(string s){
     stack<int> st;
