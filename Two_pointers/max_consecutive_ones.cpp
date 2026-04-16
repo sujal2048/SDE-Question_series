@@ -13,7 +13,6 @@ int main(){
          zerocnt++;
         while(zerocnt > k){
             if(a[i]==0){
-                zerocnt--;
             }
             i++;
         }
