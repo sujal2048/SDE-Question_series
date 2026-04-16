@@ -14,7 +14,6 @@ int main(){
         while(zerocnt > k){
             if(a[i]==0){
             }
-            i++;
         }
         ans=max(ans,j-i+1);
     }
