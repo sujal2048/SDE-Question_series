@@ -9,7 +9,7 @@ vector<int>stockspan(vector<int>prices){
             days+=s.top().second;
             s.pop();
         }
-        s.push({price,days});              //make pair or curly braces
+        s.push({price,days});             
         ans.push_back(days);
     }
 
