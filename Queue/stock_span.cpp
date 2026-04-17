@@ -6,7 +6,7 @@ vector<int>stockspan(vector<int>prices){
     for(auto price: prices){
         int days=1;
         while(!s.empty() && (s.top().first  <= price)){
-            days+=s.top().second;
+            
             s.pop();
         }
         s.push({price,days});             
