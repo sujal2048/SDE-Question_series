@@ -10,7 +10,7 @@ int main(){
     for(ll i=1;i<=t;i++){
         ll n;cin>>n;
         string s;cin>>s;
-        ll final=0;ll ans=0;
+        ll final=0;ll
        
         bool first=false;char current;
         for(ll j=0;j<n;j++){
