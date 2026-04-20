@@ -2,7 +2,6 @@
 using namespace std;
 #define ll long long
 ll fact[1000001];
-const int MOD = 1000000007;
 ll power(ll a, ll b){ll res=1;a=a%MOD;while(b>0){if(b&1){res=(res*a)%MOD;b--;}a=(a*a)%MOD;b>>=1;}
    return res;}
 ll invf(ll val){
