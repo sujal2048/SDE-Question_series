@@ -6,7 +6,7 @@ class A {
         cout<<"Inherited A \n";
     }
 };
-class B :public A{           //inherited -> A ke public and protected(inheritable) wale, b ke public me aagenge
+class B :public A{           //inherited -> A ke publ
     public:                 //class B:private A {};  -> A ke public and protected(inheritable) wale, b ke private me aagenge
     void Bfunc(){
         cout<<"B \n";
