@@ -7,7 +7,7 @@ class A {
     }
 };
 class B :public A{           //inherited -> A ke publ
-    public:                 //class B:private A {};  -> A ke public and protected(inheritable) wale, b ke private me aagenge
+    public:                 //class B:private A {}; 
     void Bfunc(){
         cout<<"B \n";
     }                         //single inheritence
