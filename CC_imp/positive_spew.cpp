@@ -9,7 +9,6 @@ int main(){
         vector<ll> a(n,0);
         ll o=0;ll plus=0;ll ans=0;
         vector<ll> indx;
-        vector<ll> tindx;
         for(ll i=0;i<n;i++){
             cin>>a[i];
             if(a[i]>0){
