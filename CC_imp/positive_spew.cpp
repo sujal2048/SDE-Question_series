@@ -8,7 +8,6 @@ int main(){
         cin>>n>>k;
         vector<ll> a(n,0);
         ll o=0;ll plus=0;ll ans=0;
-        vector<ll> indx;
         for(ll i=0;i<n;i++){
             cin>>a[i];
             if(a[i]>0){
