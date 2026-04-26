@@ -5,7 +5,6 @@
 //Example 1:
 // coins =4     sum=13
 // array=[1,3,5,15]
-//Result=3  [5,5,3]
 
 
 //  Example 2
