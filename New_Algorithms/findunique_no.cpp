@@ -9,7 +9,7 @@ ll power(ll a, ll b){
     ll res=1;a=a%MOD;
     while(b>0){
         if(b&1){
-            res=(res*a)%MOD;b--;
+            res=(res*a)%MOD;
         }
     return res;
     }
