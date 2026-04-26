@@ -7,7 +7,6 @@
 // array=[1,3,5,15]
 
 
-//  Example 2
 //array=[1,2 ,7 ,9,13]
 //result=4
 
