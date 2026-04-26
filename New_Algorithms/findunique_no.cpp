@@ -11,7 +11,6 @@ ll power(ll a, ll b){
         if(b&1){
             res=(res*a)%MOD;b--;
         }
-        a=(a*a)%MOD;b>>=1;}
     return res;
     }
 ll smallb(ll a,string s){ll mod=0;ll l=s.length();for(int i=0;i<l;i++){mod=(mod*10 + (s[i]-'0'))%a;}
