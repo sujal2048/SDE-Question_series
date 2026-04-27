@@ -4,7 +4,6 @@ struct Node{
     struct Node* right;
 
     Node(int val){
-        data=val;
         left=NULL;
         right=NULL;
     }
