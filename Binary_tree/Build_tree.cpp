@@ -5,7 +5,6 @@ struct Node{
 
     Node(int val){
         left=NULL;
-        right=NULL;
     }
     
 };
