@@ -12,7 +12,7 @@ int main(){
     vector<ll> s(n,0);
     vector<ll> c(n,0);
     vector<ll> pre(n,INT_MAX);
-    for(int i=0;i<n;i++){
+    for(int i=0;i<n;i
         cin>>s[i];
     }
     for(int i=0;i<n;i++){
