@@ -55,7 +55,6 @@ struct Solution{
 
         numTimes[val].push_back(in[x]);
         
-        for(auto it:adj[x]){
             if(it != p){
                 dfs(it,x);
             }
