@@ -135,7 +135,6 @@ struct Solution{
            for(auto q=0;q<=5;q++){
                 for(auto w:numTimes[q]){
                     cout<<w<<" ";
-                }cout<<endl;
             }cout<<endl;
 
         }
