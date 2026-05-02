@@ -25,7 +25,7 @@ int main(){
     FIO;
     ll t;cin>>t;
     while(t--){
-        ll n,k;cin>>n>>k;
+        ll n,k;cin>>n
         vector<ll> a(n);
         for(int i=0;i<n;i++){
             cin>>a[i];
