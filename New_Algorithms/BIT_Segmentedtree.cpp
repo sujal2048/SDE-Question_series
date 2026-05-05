@@ -126,7 +126,7 @@ int main(){
         ll n;
         vector<ll> a(n);
         for(int i=0;i<n;i++){
-            cin>>
+          
         }
         vector<ll> stree(2*n,0);
 
