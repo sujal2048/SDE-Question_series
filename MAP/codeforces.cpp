@@ -52,7 +52,7 @@ int main(){
 
         for(int i=1;i<=q;i++){
             cin>>g>>h;
-            if(h>=last
+          
                 cout<<b[last][g-1]<<endl;
             }
             
