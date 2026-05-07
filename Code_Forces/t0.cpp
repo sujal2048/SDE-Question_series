@@ -55,7 +55,7 @@ int main(){
             conn[i]=false;
         }
         vector<bool> temp(n+1,false);
-        ll q;cin>>q;
+        ll q;
         for(int i=1;i<=n;i++){
             ll c;cin>>c;
             ll ans=bfs(a,temp,c);
