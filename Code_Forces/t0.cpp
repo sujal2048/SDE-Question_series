@@ -52,7 +52,7 @@ int main(){
                 if(conn[i] && conn[z])
                    a[i].push_back(z);
             }
-            conn[i]=false;
+            conn[i]=fal;
         }
         vector<bool> temp(n+1,false);
         ll q;
