@@ -57,7 +57,7 @@ int least_comm_ances(Node* root,ll x,ll y){
         return root->data;
     }
     if(lft==-1){
-        return rght;
+        return 
     }
     else{
         return lft;
