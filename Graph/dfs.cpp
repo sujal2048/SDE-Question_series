@@ -59,7 +59,7 @@ void dfsmain(vector<vector<ll>> graph,vector<bool> &visited,ll n){
 }
 int main(){
     FIO;
-    ll n;c
+    
 
     vector<vector<ll>> graph(n+1,vector<ll> ());
     ll e;cin>>e;
