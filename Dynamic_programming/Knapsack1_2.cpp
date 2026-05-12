@@ -50,7 +50,7 @@ int main(){
         for(int i=1;i<=n;i++){
         for(int j=w;j>=0;j--){
             if(a[i-1][0]<=j){         //cond so that dp do not go outside  or invalid set;
-                dp2[j]=max(dp2[j],a[i-1][1]+dp2[j-
+                dp2[j]=max(dp2[j],a[i-1][1]\
             }
         }
     }                                                                                            
