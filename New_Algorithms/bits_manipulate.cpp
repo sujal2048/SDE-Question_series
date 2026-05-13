@@ -18,7 +18,7 @@ int main(){
             ll a = flip(n);
             ll b = n;
             if((b&(b+1)) == 0) b--;
-           // ll val = ((b * (b+1)) / 2) - ((a * (a-1
+           // ll val = ((b * (b+1)) / 2) -
             ll val=((b-a+1)*(a+b))/2;
             ans += (val*2);
             n = a-1;
