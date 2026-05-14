@@ -17,7 +17,7 @@ int main(){
             }
             for(int j=y;j<=z;j++){
                 day[j-1][1]++;
-                day[j-1][1+day[j-1][1]]=x;      //day
+                day[j-1][1+day[j-1][1]]=x;     
             }
         }
         day[1-1][0]=temp[1];
