@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#define ll long 
+#define ll 
 int main(){
     ll t;
     cin>>t;
