@@ -16,7 +16,7 @@ int main(){
             cin>>a[i];
         }
          for(int i=0;i<n;i++){
-            cin>
+            
         int mx=INT_MAX;
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
