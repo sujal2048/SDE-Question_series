@@ -18,7 +18,7 @@ int search(vector<ll> inorder,ll start,ll end,ll curr){
             break;
         }
     }
-    return
+    
 }
 Node* buildtree(vector<ll> preorder,vector<ll> inorder,ll start,ll end){
     static int idx=0;
