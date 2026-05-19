@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     ios_base::sync_with_stdio(false);
-    int n;
+
     cin >> n;
  
     vector<vector<int>> ip(n + 1, vector<int>(3));
