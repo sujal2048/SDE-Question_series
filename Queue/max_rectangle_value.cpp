@@ -1,8 +1,7 @@
 #include<bits/stdc++.h>           //https://www.youtube.com/watch?v=hGl8Boeb7S4&t=49
 
 using namespace std;
-int get_max_area(vector<int> a){                //if it is incre 
-    int n=a.size(),ans=0,i=0;              
+int get_max_area(vector<int> a){                //if
     a.push_back(0);
     stack <int> st;
     while(i<=n){
