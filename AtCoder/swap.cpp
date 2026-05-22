@@ -17,7 +17,7 @@ int main(){
         }
          for(int i=0;i<n;i++){
             
-        int mx=INT_MAX;
+      
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
            
