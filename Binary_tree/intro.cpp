@@ -49,7 +49,6 @@ int main(){
    root->left->right=new Node(5);
    /*
            1
-         2   3
        
 
    */
