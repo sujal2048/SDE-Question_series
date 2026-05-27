@@ -24,8 +24,7 @@ int main(){
          x=sum; nax=0; nbx=0;ntx=0;
         while(x>0){
             ll t=x%10;
-            if(t==a){
-                nax++;
+            if(t
             }
             if(t==b){
                 nbx++;
