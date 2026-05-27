@@ -27,7 +27,7 @@ int main(){
             if(t
             }
             if(t==b){
-                nbx++;
+             
             }
             ntx++;
             x=x/10;
