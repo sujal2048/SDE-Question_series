@@ -14,7 +14,7 @@ int main(){
     ll n,k;cin>>n>>k;
     vector<ll> a(n);
     for(int i=0;i<n;i++){
-        cin>>a[i];
+     
     }
     if(k>=(n-1)){
         cout<<abs(a[0]-a[n-1])<<endl;
