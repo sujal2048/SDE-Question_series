@@ -13,7 +13,7 @@ int main(){
               }
               else{
                   if(current!=ch){
-                      ans++;current=ch;
+                   
                   }
               }
             }
