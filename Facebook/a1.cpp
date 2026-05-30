@@ -12,9 +12,7 @@ int main(){
                   first=true;
               }
               else{
-                  if(current!=ch){
-                   
-                  }
+                  
               }
             }
         }
