@@ -18,8 +18,7 @@ int main(){
             if(current<target){
                 lo++;
             }
-            else{
-                hi--;
+            
             }
         }
     }
