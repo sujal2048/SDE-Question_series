@@ -4,8 +4,7 @@ int main(){
     int n;cin>>n;
     int target;cin>>target;
     vector<int> a(n);
-    for(auto &i: a){
-        cin>>i;
+
     }
     bool found=false;
     sort(a.begin(),a.end());
