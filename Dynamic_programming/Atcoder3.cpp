@@ -11,7 +11,7 @@ int main()
     vector<vector<int>> ip(n + 1, vector<int>(3));
     for (int i = 1; i <= n; i++)
     {
-        cin >> ip[i][0] >> ip[i][1] >> ip[i][2];
+        cin >> ip[i][0] >> ip[i][1
     }
  
     vector<vector<int>> dp(n + 1, vector<int>(3, 0));
