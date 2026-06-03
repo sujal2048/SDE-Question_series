@@ -12,7 +12,6 @@ int main(){
         vector<ll> un(n,0);
         vector<ll> o(n,0);
         vector<ll> curr(n,0);
-        vector<ll> total(n,0);
         if(n==1){
             ans[i]=0;
             continue;
