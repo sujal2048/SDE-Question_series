@@ -175,7 +175,7 @@ int main(){
         //cout<<"Case #"<<q<<": ";
        solve();
       // pair<ll,ld> x=precisionCompute({31,0.23456});
-      // cout<<x.first+x.second;
+      
 
     }
    return 0;
