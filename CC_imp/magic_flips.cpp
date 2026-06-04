@@ -55,7 +55,7 @@ int main(){
 
             }
             if(result){
-              ans=ans+(1<<i);
+              ans=
               card2=0;
             }
             else{
