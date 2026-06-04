@@ -26,7 +26,7 @@ int main(){
                 }
                 if(s[j]==0){
                     if(ac==1 && bc==0){
-                        s[j]=1;flip.push_back(j);
+                        s[j]=1;flip.pu
 
                     }
                     else if(ac==0 && bc==1){
