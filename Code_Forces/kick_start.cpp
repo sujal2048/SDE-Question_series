@@ -52,7 +52,7 @@ int main(){
 /*
 bool compare(pair<ll,pair<ll,ll>> p1,pair<ll,pair<ll,ll>> p2){
     
-    return p1.first>p2.first;
+    retu
 }
 
 int main(){
