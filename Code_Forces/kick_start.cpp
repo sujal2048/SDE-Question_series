@@ -85,7 +85,7 @@ int main(){
 int main(){
     ll t;cin>>t;
     for(ll q=1;q<=t;q++){
-        ll d,n,k;cin>>d>>n>>k;
+        ll d,n,k;cin>>d
         vector<pair<ll,pair<ll,ll>>> a(n,pair<ll,pair<ll,ll>> () );
         for(int i=0;i<n;i++){
             cin>>a[i].first>>a[i].second.first>>a[i].second.second;
