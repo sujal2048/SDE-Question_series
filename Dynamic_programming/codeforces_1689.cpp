@@ -135,7 +135,7 @@ void solve(){
     tree[0].push_back(1);
     countsub(1,0,tree,cnt);
     dfs(1,0,tree,cnt,dp);
-    cout<<dp[1]<
+    cout<
 
   
   
