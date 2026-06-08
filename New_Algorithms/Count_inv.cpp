@@ -75,7 +75,7 @@ int main(){
         map<ll,ll> m;                         // just to map the element of a[i]
         for(int i=0;i<n;i++){                 //  if they are of range 10^9       
            m[a[i]]=0;                           //then we cannot create array of size 10^9
-        }                                     // so we mapping the dange 
+        }                                     // so we  
         ll index=1;                           //
         for(auto &i:m){                        //  
             i.second=index;                   //       
