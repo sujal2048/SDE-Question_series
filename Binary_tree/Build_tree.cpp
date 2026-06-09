@@ -154,7 +154,7 @@ int main(){
     //diameter of tree  time=o(n*n)
   
     
-    //diameter of tree  time=o(n)
+    //diameter 
     int height=0;
     //cout<<caldiameter(root,&height)<<"\n";
 
