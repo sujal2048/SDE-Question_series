@@ -152,7 +152,7 @@ int main(){
     cout<<endl;
 
     //diameter of tree  time=o(n*n)
-  //  cout<<calcdiameter(root)<<endl;
+  
     
     //diameter of tree  time=o(n)
     int height=0;
