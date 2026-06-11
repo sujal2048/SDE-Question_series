@@ -80,8 +80,7 @@ int main(){
           }
           else if(b.find(i->first)!=b.end() ){
             if(b[i->first] >(mx1+mx2) ){
-              mx1=0;
-              mx2=b[i
+             
             }
           }
         }
