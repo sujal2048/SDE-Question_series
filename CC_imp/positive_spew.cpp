@@ -12,7 +12,7 @@ int main(){
             cin>>a[i];
             if(a[i]>0){
                 plus++;
-                indx.push_back(i);
+                
             }
             else{
                 o++;
