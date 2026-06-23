@@ -11,7 +11,7 @@ int main(){
         for(ll i=0;i<n;i++){
             cin>>a[i];
             if(a[i]>0){
-                plus++;
+               
                 
             }
             else{
