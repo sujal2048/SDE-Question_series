@@ -13,7 +13,7 @@ int main(){
             cin>>x>>y>>z;
             temp[y]+=x;
             if(z<d){
-                temp[z+1]
+               
             }
             for(int j=y;j<=z;j++){
                 day[j-1][1]++;
