@@ -114,7 +114,7 @@ int main()
             {
                 if (change[i])
                 {
-                    a = b + i -
+                    a = b 
                 }
                 else
                 {
