@@ -20,7 +20,7 @@ int prefixevaluation(string s){
                 break;
             case '-':
                 st.push(op1-op2);
-                break;
+            
             case '/':
                 st.push(op1/op2);
                 break;
