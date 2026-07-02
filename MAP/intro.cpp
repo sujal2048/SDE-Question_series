@@ -8,7 +8,6 @@ int main(){
         ll k,m;
         unordered_map<int,int> a;
       
-        for(int i=0;i<n;i++){
           
          
         }
