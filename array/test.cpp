@@ -9,7 +9,6 @@ int main(){
         vector<int> a(n);
         for(auto &i: a){
             cin>>i;
-        }
         
         sort(a.begin(),a.end());
         ll ans=1;
