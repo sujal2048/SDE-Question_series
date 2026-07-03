@@ -8,7 +8,7 @@ int main(){
         cin>>n>>x>>y>>k;
         vector<int> a(n);
         for(auto &i: a){
-            cin>>i;
+     
         
         sort(a.begin(),a.end());
         ll ans=1;
