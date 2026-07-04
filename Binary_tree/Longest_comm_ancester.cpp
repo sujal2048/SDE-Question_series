@@ -13,7 +13,7 @@ struct Node{
 };
 int search(vector<ll> inorder,ll start,ll end,ll curr){
     for(int i=start;i<=end;i++){
-        if(curr==inorder[i]){
+    
         
         }
     }
