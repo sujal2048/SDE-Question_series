@@ -132,7 +132,7 @@ void solve(){
         tree[y].push_back(x);
     }
     tree[1].push_back(0);
-    tree[0].push_back(1);
+    tree[0].pu
     countsub(1,0,tree,cnt);
     dfs(1,0,tree,cnt,dp);
     cout<
