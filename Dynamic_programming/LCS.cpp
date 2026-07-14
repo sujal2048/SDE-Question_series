@@ -100,7 +100,6 @@ void generate(int l, int r, int p, int q)
         return;
     if (s[l] == t[r])
     {
-        ans += s[l];
         generate(l + 1, r + 1, p, q);
     }
     else if (rec(l + 1, r, p, q) > rec(l, r + 1, p, q))
