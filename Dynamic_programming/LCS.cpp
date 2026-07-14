@@ -102,7 +102,6 @@ void generate(int l, int r, int p, int q)
     {
         generate(l + 1, r + 1, p, q);
     }
-    else if (rec(l + 1, r, p, q) > rec(l, r + 1, p, q))
         generate(l + 1, r, p, q);
     else
         generate(l, r + 1, p, q);
