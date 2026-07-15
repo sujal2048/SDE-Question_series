@@ -11,7 +11,7 @@ class apni{
     }
 };
 
-//operator overloading
+//operator 
 class Complex{
     private:
     
