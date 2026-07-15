@@ -18,7 +18,6 @@ class Complex{
     public:
      int real,img;
     
-    Complex(int r=0,int m=0){          //complex(int r=0,int m=0){}  //default construtor
         real=r;
         img=m;
     }
