@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>     //many forms -> poly...morphism
 using namespace std;        //https://www.youtube.com/watch?v=F5PbnZkHqmg&t=115s
 
-//function overloading
 class apni{
     public:
     void func(){
