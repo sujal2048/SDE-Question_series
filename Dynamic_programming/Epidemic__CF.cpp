@@ -16,7 +16,6 @@ int main(){
         }
         vector <ll> l(n+1,INT_MAX);
         vector <ll> r(n+1,INT_MAX);
-        ll p=INT_MAX;
         for(int i=1;i<=n;i++){
             l[i]=min(p+1,coi[i]);
             p=l[i];
