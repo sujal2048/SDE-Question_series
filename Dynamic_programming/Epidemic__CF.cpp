@@ -12,7 +12,6 @@ int main(){
             cin>>a[i];
         }
          for(int i=1;i<=k;i++){
-            cin>>coi[a[i]];
         }
         vector <ll> l(n+1,INT_MAX);
         vector <ll> r(n+1,INT_MAX);
