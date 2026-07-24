@@ -20,7 +20,6 @@ int main(){
                   first=true;
               }
               else{
-                  if(current!=ch){
                       ans++;current=ch;
                   }
               }
