@@ -17,7 +17,6 @@ int main(){
             char ch=s[j];
             if(ch!='F'){
               if(!first){
-                  current=ch;
                   first=true;
               }
               else{
